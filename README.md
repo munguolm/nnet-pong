@@ -1,2 +1,1 @@
-"# nnet-pong" 
-"# nnet-pong" 
+This is a project I did for college. Needs improvement, though. 
